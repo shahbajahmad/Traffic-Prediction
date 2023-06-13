@@ -1,0 +1,11 @@
+# Requirements File
+# This all pandas module should be latest version*******
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+statsmodels
+scikit-learn
+keras
+
