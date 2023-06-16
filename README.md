@@ -1,5 +1,5 @@
 # Traffic-Prediction
-The code is a Python script that performs various tasks related to time series analysis, data exploration, feature engineering, data visualization, data transformation, preprocessing, model training, and evaluation. Here's a breakdown of what the code does:
+This Python script performs various tasks related to time series analysis, data exploration, feature engineering, data visualization, data transformation, preprocessing, model training, and evaluation. Here's a breakdown of what the code does:
 
 Imports the necessary libraries:
 
