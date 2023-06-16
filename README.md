@@ -4,12 +4,19 @@ The code is a Python script that performs various tasks related to time series a
 Imports the necessary libraries:
 
 NumPy for numerical operations
+
 Pandas for data manipulation and analysis
+
 Matplotlib and Seaborn for data visualization
+
 Datetime for working with dates and times
+
 TensorFlow and Keras for building and training the model
+
 Statsmodels for time series analysis
+
 Scikit-learn for data preprocessing and evaluation
+
 Loads a dataset from a CSV file named "traffic.csv" into a Pandas DataFrame.
 
 Performs data exploration by displaying the head of the dataset and providing information about the DataFrame's columns and data types.
